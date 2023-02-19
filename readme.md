@@ -1,11 +1,11 @@
-<!-- Number One. -->
+Number One.
 1. Arithmetic Operators: Addition(+), Subtraction(-), Multiplication(*), Division(/), Increment(++), Decrement(--), Modulus(%), Exponentiation(**)
 2. Assignment Operators: =
 3. Comparison Operators: Greater than(>), Less than (<), less than or equal to (<=), Greater than or equal to (>=), Equality (==), Strict Equality (===), Not equal(!=), Strictly not equal (!==)
 4. Logical Operators: and(&&), or(||), not(!)
 5. Bitwise Operators: AND(&), |(OR), ^(XOR), <<(Zero fill left shift), >>(Signed right shift), >>>(Zero fill right shift)
 
-<!-- Number Two. -->
+Number Two.
 1. Arithmetic Operators: 
         let x = 5;
         let y = 3;
@@ -53,5 +53,6 @@
             result = a | b; 
             console.log(result); // 29
 
-<!-- Number Four. -->
+Number Four.
+
 The answer is 15
