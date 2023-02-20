@@ -19,12 +19,16 @@ let department = "Arts Class";
 
 
 //Number 5
+let num = 20;
+let pwr = 1;
 
-let num = 40;
-let x = 6;
-let pwr = x ** 2;
-    if (pwr < num){
-        console.log("The number " + pwr + " is the power of 2 nearest to " + num);
-    } else {
-        console.log("ERROR");
-    }
+for (let i = 0; i < 8; i++){
+    let exp = 1 << i;
+
+    if(exp > num)
+    break;
+   
+
+    pwr = exp;
+}
+console.log("The number " + pwr + " is the power of 2 nearest to " + num);
