@@ -55,4 +55,4 @@ Number Two.
 
 Number Four.
 
-The answer is 15
+The answer is 1, 8, 15
